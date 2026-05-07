@@ -179,7 +179,7 @@ StockProject/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/StockProject.git
+git clone https://github.com/Varsh24-hash/AI-trading.git
 cd StockProject
 ```
 
