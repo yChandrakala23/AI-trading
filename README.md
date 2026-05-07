@@ -291,11 +291,6 @@ The app is deployed on **Streamlit Community Cloud** and rebuilds automatically 
 
 Live URL: https://ai-trading-8yddslultqfz2hfv9yt32z.streamlit.app
 
----
-
-## Disclaimer
-
-> This project is built for educational and research purposes only. It is not financial advice and should not be used to make real investment decisions. All backtested results are simulated and past performance does not guarantee future returns.
 
 ---
 
