@@ -289,7 +289,7 @@ All strategy backtests report the following metrics:
 
 The app is deployed on **Streamlit Community Cloud** and rebuilds automatically on every push to `main`.
 
-Live URL: [https://stockproject-cmy24zfxv2hsenglgjktrw.streamlit.app](https://stockproject-cmy24zfxv2hsenglgjktrw.streamlit.app)
+Live URL: https://ai-trading-8yddslultqfz2hfv9yt32z.streamlit.app
 
 ---
 
@@ -301,7 +301,7 @@ Live URL: [https://stockproject-cmy24zfxv2hsenglgjktrw.streamlit.app](https://st
 
 ## Author
 
-Built by **[Your Name]** as a quantitative finance and ML engineering portfolio project.
+Built by Varshini and Chandrakala as a quantitative finance and ML engineering portfolio project.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
