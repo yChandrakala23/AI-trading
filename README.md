@@ -32,6 +32,7 @@ The platform is designed to demonstrate skills relevant to quant research, algor
 - **SHAP explainability** — bar chart showing exactly which feature influenced the prediction and by how much
 - **AI reasoning cards** — plain English explanation of RSI, MACD, Bollinger Bands, MA crossovers, and model confidence
 - 90-day candlestick chart with signal marked, MACD subplot, RSI subplot
+- Live Streamlit dashboard with interactive analytics and explainable AI visualisations
 
 ### 🤖 ML Prediction Engine
 - Three trained classifiers: XGBoost, Random Forest, Logistic Regression
